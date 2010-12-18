@@ -1,12 +1,13 @@
 #   Copyright
 #
-#      Copyright (C) 2009-2010 Jari Aalto
+#      Copyright (C) 2010 Matt Mahoney <matmahoney@yahoo.com>
+#      Copyright (C) 2009-2010 Jari Aalto <jari.aalto@cante.net>
 #
 #   License
 #
 #       This program is free software; you can redistribute it and/or modify
 #       it under the terms of the GNU General Public License as published by
-#       the Free Software Foundation; either version 2 of the License, or
+#       the Free Software Foundation; either version 3 of the License, or
 #       (at your option) any later version.
 #
 #       This program is distributed in the hope that it will be useful,
@@ -165,8 +166,9 @@ C<zpaq(1)>
 Program was written by Matt Mahoney <matmahoney@yahoo.com>
 
 This manual page was put together by Jari Aalto
-<jari.aalto@cante.net>. under license GNU GPL version 2 or (at your
-option) any later version. For more information about license, visit
+<jari.aalto@cante.net>. Updated and maintained by Matt Mahoney.
+Published under license GNU GPL version 2 or (at your option) any
+later version. For more information about license, visit
 <http://www.gnu.org/copyleft/gpl.html>.
 
 =cut
